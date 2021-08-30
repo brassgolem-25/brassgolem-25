@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Tushar Tiwari
 - 👀 I’m interested in learing new prospect of current techonology scenario 
-- currently learning web development..check my repository..Thanks
 
 <!---
 brassgolem-25/brassgolem-25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
